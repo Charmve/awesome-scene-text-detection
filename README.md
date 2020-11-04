@@ -20,19 +20,18 @@ Tracking the latest progress in Scene Text Detection and Recognition: Must-read 
 
 ------
 
-<br>
 
 ## ✨ News! ✨
 <ul>
 	<li><font size="4"><b>2020.11.04:</b> 21 papers was updated from <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>!</font></li>
-Go to 📑 ![5. References and Code](./README.md#5-references) or :open_file_folder: ![Scene Text Detection Survey](./STD-CVPR2020.md)
+Go to 📑 <a href="https://github.com/Charmve/Scene-Text-Detection/blob/main/README.md#5-references" target="_blank">5. References and Code</a> or :open_file_folder: <a href="./STD-CVPR2020.md" target="_blank">Scene Text Detection Survey</a>
 	<li><font size="4"><b>2020.10.12:</b> A detailed survey was organized from <a href="https://www.ijcv.org/" target="_blank">IJCV 2020</a>!</font></li>
-Go to :open_file_folder: ![Scene Text Detection Survey](./Scene%20Text%20Survey.md)
+Go to :open_file_folder: <a href="./Scene%20Text%20Survey.md" target="_blank">Scene Text Detection Survey</a>
 	<!--
    <li><font size="4"><b>2020.03.24:</b> 4 paper was accepted by <a href="https://www.2020.ieeeicme.org/" target="_blank">ICME 2020</a> !</font></li>
  -->
 </ul>
-
+<br>
 
 <a id="1-datasets"></a>
 ## 1. Datasets
@@ -842,14 +841,14 @@ Feel free to dive in! [Open an issue](https://github.com/Charmve/Scene-Text-Dete
 This project exists thanks to all the people who contribute. 
 <a href="graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 
-More sincerely, I'm appreciate to @![HCIILAB](https://github.com/HCIILAB) & @![HCIILAB](https://github.com/Jyouhou)
+More sincerely, I'm appreciate to @<a href="https://github.com/HCIILAB" target="_blank">HCIILAB</a> & @<a href="https://github.com/Jyouhou" target="_blank">Jyouhou</a>
 
 # Copyright
 
-Copyright © 2020 MaiweiAI.cn @![Charmve](https://github.com/Charmve). All Rights Reserved.
+Copyright © 2020 MaiweiAI.cn @<a href="https://github.com/Charmve" target="_blank">Charmve</a>. All Rights Reserved.
 
 <p align="center">
-    <img src="https://github.com/Charmve/Charmve.github.io/mhy.jpg" alt="Sample"  width="150" height="75">
+    <img src="https://charmve.github.io/mhy.jpg" alt="Sample"  width="150" height="75">
     <p align="center">
         <em></em>
     </p>
@@ -860,7 +859,3 @@ Copyright © 2020 MaiweiAI.cn @![Charmve](https://github.com/Charmve). All Right
 <div align=right>
   *<i>Last updated in July 2020.</i><br>
 </div>
-
-
-
-
