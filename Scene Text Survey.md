@@ -1,4 +1,4 @@
-# Scene Text Survey
+# Scene Text Detection Survey
 
 - __Scene Text Detection and Recognition: The Deep Learning Era__. _Shangbang Long, Xin He, Cong Yao_. [\[arxiv preprint\]](https://arxiv.org/abs/1811.04256) [\[IJCV version\]](https://link.springer.com/article/10.1007/s11263-020-01369-0)
 
