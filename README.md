@@ -20,7 +20,7 @@ Tracking the latest progress in Scene Text Detection and Recognition: Must-read 
 
 ------
 
-
+<br>
 ## ✨ News! ✨
 <ul>
 <li><font size="4"><b>2020.11.04:</b> 21 papers was updated from <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>!</font></li>
