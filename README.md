@@ -828,10 +828,6 @@ If you are insterested in developing better scene text detection metrics, some r
 
 # Contribute & Acknowledge
 
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-
 ## Contributing
 
 Feel free to dive in! [Open an issue](https://github.com/Charmve/Scene-Text-Detection/issues/new) or submit PRs. 
@@ -843,17 +839,22 @@ This project exists thanks to all the people who contribute.
 
 More sincerely, I'm appreciate to @<a href="https://github.com/HCIILAB" target="_blank">HCIILAB</a> & @<a href="https://github.com/Jyouhou" target="_blank">Jyouhou</a>
 
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
 # Copyright
 
 Copyright © 2020 MaiweiAI.cn @<a href="https://github.com/Charmve" target="_blank">Charmve</a>. All Rights Reserved.
 
+<!--
 <p align="center">
     <img src="https://charmve.github.io/mhy.jpg" alt="Sample"  width="150" height="75">
     <p align="center">
         <em></em>
     </p>
 </p>
-
+-->
 
 
 <div align=right>
