@@ -1,7 +1,7 @@
 # Scene-Text-Detection
 Tracking the latest progress in Scene Text Detection and Recognition: Must-read papers well organized with code and dataset
 
-<p align='right'>Author: Wei ZHANG</p>
+<p align='right'>Author: <a href="https://github.com/Charmve" target="_blank">Wei ZHANG</a></p>
 
 <!-- MarkdownTOC -->
 
@@ -20,6 +20,8 @@ Tracking the latest progress in Scene Text Detection and Recognition: Must-read 
 
 ------
 
+<br>
+
 ## ✨ News! ✨
 <ul>
 	<li><font size="4"><b>2020.11.04:</b> 21 papers was updated from <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>!</font></li>
@@ -30,7 +32,7 @@ Go to :open_file_folder: [Scene Text Detection Survey](./Scene%20Text%20Survey.m
    <li><font size="4"><b>2020.03.24:</b> 4 paper was accepted by <a href="https://www.2020.ieeeicme.org/" target="_blank">ICME 2020</a> !</font></li>
  -->
 </ul>
-<br>
+
 
 <a id="1-datasets"></a>
 ## 1. Datasets
