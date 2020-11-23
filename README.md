@@ -25,7 +25,7 @@ Tracking the latest progress in Scene Text Detection and Recognition: Must-read 
 ## ✨ News! ✨
 <ul>
 <li><font size="4"><b>2020.11.04:</b> 21 papers was updated from <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>!</font></li>
-Go to 📑 <a href="https://github.com/Charmve/Scene-Text-Detection/blob/main/README.md#5-references" target="_blank">5. References and Code</a> or :open_file_folder: <a href="./STD-CVPR2020.md" target="_blank">References and Code(CVPR2020)</a><br>
+Go to 📑 <a href="https://github.com/Charmve/Scene-Text-Detection/blob/main/README.md#5-references" target="_blank">5. References and Code</a> or :open_file_folder: <a href="./STD-CVPR2020.md" target="_blank">References and Code(CVPR2020)</a><br><br>
 <li><font size="4"><b>2020.10.12:</b> A detailed survey was organized from <a href="https://www.ijcv.org/" target="_blank">IJCV 2020</a>!</font></li>
 Go to :open_file_folder: <a href="./Scene%20Text%20Survey.md" target="_blank">Scene Text Detection Survey</a>
 	<!--
