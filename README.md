@@ -1,10 +1,16 @@
 # Scene-Text-Detection
+<p align="left">
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/作者-@Charmve-000000.svg?logo=GitHub" alt="GitHub"></a>
+  <a href="https://github.com/Charmve/computer-vision-in-action"><img src="https://img.shields.io/badge/CV-in%20Action-yellow" alt="CV-Action"></a>
+</p>
 Tracking the latest progress in Scene Text Detection and Recognition: Must-read papers well organized with code and dataset.
 
-<p align='right'>Author: <a href="https://github.com/Charmve" target="_blank">Wei ZHANG</a></p>
+<br>
 
 <!-- MarkdownTOC -->
 
+## Table of Content
 - [1.Datasets](#1-datasets)
     - [1.1 Horizontal-Text Datasets](#11-Horizontal-Text-Datasets)
     - [1.2 Arbitrary-Quadrilateral-Text Datasets](#12-Arbitrary-Quadrilateral-Text-Datasets)
